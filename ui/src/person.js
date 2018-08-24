@@ -103,7 +103,7 @@ export const person = {
       title: 'Bronze Star',
       date: '2014',
       awarder: 'US Army',
-      summary: 'Awarded for service during a combat deployment to Afghanistant',
+      summary: 'Awarded for service during a combat deployment to Afghanistan',
     },
     {
       title: 'INFORMS Undergraduate Operations Research Prize',
